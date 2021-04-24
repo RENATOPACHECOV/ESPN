@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN (AR)" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="TV",ESPN (AR)
+http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9554.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 (AR)" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="TV",ESPN 2 (AR)
+http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9555.m3u8
