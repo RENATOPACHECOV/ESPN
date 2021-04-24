@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-url="" group-title="",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Perú Noticias" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0THQOZn.png" tvg-url="" group-title="News",TV Perú Noticias
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-name="Chicos IPe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" tvg-url="" group-title="",Chicos IPe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
@@ -9,20 +15,26 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" tvg-url="" group-title="News",Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
 
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibeña" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" tvg-url="" group-title="Music",Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8
+
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-url="" group-title="",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Movies",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://51.161.115.48:8080/imagenes/365.jpg" group-title="TV",PARAMOUNT CHANNEL
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9535.m3u8
+
+#EXTINF:-1 tvg-id="SONY.es" tvg-name="SONY" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",SONY
+https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://xtream-coders.com/x0/latino/studio_universal.png" group-title="TV",Studio Universal
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9388.m3u8
-
-#EXTINF:-1 tvg-id="megatv.com.bo" tvg-name="MEGA TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j7opA5I.png" tvg-url="" group-title="",MEGA TV YACUIBA (720p)
-https://stmv.panel.mivideo.pro/rtv/rtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="TV",DIRECTV SPORTS +
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9553.m3u8
@@ -48,11 +60,11 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9390.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY HOME and HEALTH" tvg-logo="http://51.161.115.48:8080/imagenes/61.jpg" group-title="TV",DISCOVERY HOME and HEALTH
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9391.m3u8
 
-#EXTINF:-1 tvg-id="MTVLatino.us" tvg-name="MTV Latino" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV MTV Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="" tvg-name="DW (Español)" tvg-logo="https://pbs.twimg.com/profile_images/1131055518385090560/4POGDZsY.png" group-title="TV",DW (Español)
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9542.m3u8
 
 #EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" tvg-url="" group-title="",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT en Español (720p)
+https://rt-esp.secure.footprint.net/1102.m3u8
