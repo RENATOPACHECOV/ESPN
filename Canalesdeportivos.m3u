@@ -30,14 +30,17 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://xtream-coders.com/x0/latino/studio_universal.png" group-title="TV",Studio Universal
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9388.m3u8
 
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="TV",DIRECTV SPORTS +
+http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9553.m3u8
+
 #EXTINF:-1,FOX Sports 1 HD ES
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
 
-#EXTINF:-1,Movistar LaLiga HD ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+#EXTINF:-1,FOX Sports 2 FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28598
 
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="TV",DIRECTV SPORTS +
-http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9553.m3u8
+#EXTINF:-1,FOX Sports 3 FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28599
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="TV",ESPN (AR)
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9554.m3u8
@@ -51,6 +54,12 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9532.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://51.161.115.48:8080/imagenes/14642.jpg" group-title="TV",TUDN
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9531.m3u8
 
+#EXTINF:-1,beIN 1 SD
+http://62.210.245.28:25461/9d47a2bccf/9d47a2bd17/9904
+
+#EXTINF:-1,Nicktoons
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/35201
+
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET" tvg-logo="http://51.161.115.48:8080/imagenes/60.jpg" group-title="TV",ANIMAL PLANET
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9389.m3u8
 
@@ -59,6 +68,9 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9390.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY HOME and HEALTH" tvg-logo="http://51.161.115.48:8080/imagenes/61.jpg" group-title="TV",DISCOVERY HOME and HEALTH
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9391.m3u8
+
+#EXTINF:-1,OSN History Channel
+http://62.210.245.28:25461/9d47a2bccf/9d47a2bd17/10059
 
 #EXTINF:-1,CNN en Español ES
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/22977
