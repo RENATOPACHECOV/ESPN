@@ -21,8 +21,8 @@ https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-url="" group-title="",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1,AMC HD ES
-http://mag.clientportal.link:80/WL3KqSLWN577/xCCJhu/12733
+#EXTINF:-1,TNT Serie FHD CH
+http://mag.clientportal.link:80/WL3KqSLWN577/xCCJhu/75515
 
 #EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://51.161.115.48:8080/imagenes/365.jpg" group-title="TV",PARAMOUNT CHANNEL
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9535.m3u8
