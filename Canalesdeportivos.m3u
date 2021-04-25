@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Telecinco ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/5415
-
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-url="" group-title="",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
@@ -36,6 +33,9 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://xtream-coders.com/x0/latino/studio_universal.png" group-title="TV",Studio Universal
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9388.m3u8
 
+#EXTINF:-1,Movistar LaLiga HD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+
 #EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="TV",DIRECTV SPORTS +
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9553.m3u8
 
@@ -59,6 +59,9 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9390.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY HOME and HEALTH" tvg-logo="http://51.161.115.48:8080/imagenes/61.jpg" group-title="TV",DISCOVERY HOME and HEALTH
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9391.m3u8
+
+#EXTINF:-1,CNN en Español ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/22977
 
 #EXTINF:-1 tvg-id="" tvg-name="DW (Español)" tvg-logo="https://pbs.twimg.com/profile_images/1131055518385090560/4POGDZsY.png" group-title="TV",DW (Español)
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9542.m3u8
