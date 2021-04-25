@@ -21,20 +21,20 @@ https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-url="" group-title="",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Movies",AXN
-http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1,SP| FOX HD
+http://rv.flysat.live:80/wade/wade/79319
 
 #EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://51.161.115.48:8080/imagenes/365.jpg" group-title="TV",PARAMOUNT CHANNEL
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9535.m3u8
-
-#EXTINF:-1 tvg-id="SONY.es" tvg-name="SONY" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",SONY
-https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://xtream-coders.com/x0/latino/studio_universal.png" group-title="TV",Studio Universal
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9388.m3u8
+
+#EXTINF:-1,SP| MEGA HD
+http://rv.flysat.live:80/wade/wade/79351
 
 #EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="TV",DIRECTV SPORTS +
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9553.m3u8
