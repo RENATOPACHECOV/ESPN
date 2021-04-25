@@ -33,6 +33,9 @@ http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9388.m3u8
 #EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="TV",DIRECTV SPORTS +
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9553.m3u8
 
+#EXTINF:-1,ES MOVISTAR LIGA DE CAMPEONES FHD
+http://aumaletv.com:25461/7823/782e/31378
+
 #EXTINF:-1,FOX Sports 1
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
 
