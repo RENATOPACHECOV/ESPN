@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,FOX SPOPRTS
+https://tv.teleclub.xyz/online/FOXSPORT.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FoX Channel" tvg-logo="" group-title="SERIES",MrZutv.net:FoX Channel
 http://zutv.online:2086/live/argaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergae/argaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergaeargaergae/295.ts
 
