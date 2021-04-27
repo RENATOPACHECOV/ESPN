@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,DISCOVERY h&h
+https://tv.teleclub.xyz/canal/LIVE-D_HYH.m3u8
+
 #EXTINF:-1,FOX CHUNKS 1280X720
 http://e10.telerium.uno:2052/free10/049/chunks.m3u8?nimblesessionid=2293131&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDQ6MTg6MDYgUE0maGFzaF92YWx1ZT1jV0NqaFd2bUJWMVEzZGo1WFVhRGR3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
