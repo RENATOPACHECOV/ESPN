@@ -1,8 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1,FOX Sports 1 HD ES
+#EXTINF:-1,Mega
+https://raw.githubusercontent.com/RENATOPACHECOV/ESPN/main/Canalesdeportivos.m3u
+
+#EXTINF:-1,Fox Sports MX
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
-#EXTINF:-1,FOX Sports 2 FHD ES
+
+#EXTINF:-1,Fox Sports 2 MX
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28598
-#EXTINF:-1,FOX Sports 3 FHD ES
+
+#EXTINF:-1,Fox Sports 3 MX
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28599
+
+#EXTINF:-1,Movistar Formula 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/12701
+
+#EXTINF:-1,Movistar LaLiga
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+
+#EXTINF:-1,Movistar LaLiga 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
+
+#EXTINF:-1,Movistar LaLiga 2
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
+
+#EXTINF:-1,Movistar LaLiga 3
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
+
+#EXTINF:-1,Movistar LaLiga 4
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
+
+#EXTINF:-1,Movistar Liga de Campeones
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28654
+
+#EXTINF:-1,Movistar Liga de Campeones 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28655
+
+#EXTINF:-1,Movistar Liga de Campeones 2
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28657
+
+#EXTINF:-1,Movistar Liga de Campeones 3
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28659
+
+#EXTINF:-1,Movistar Liga de Campeones 4
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28660
+
+#EXTINF:-1,DAZN 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28893
+
+#EXTINF:-1,DAZN 2
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/72648
+
+
+
