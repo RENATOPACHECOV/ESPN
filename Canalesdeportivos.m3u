@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru | HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1,TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
 #EXTINF:-1,MEGA
 https://raw.githubusercontent.com/RENATOPACHECOV/ESPN/main/Canalesdeportivos.m3u
 
