@@ -1,94 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1, MEGA TV
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:-1,TV PERU
-http://cdnh4.iblups.com/hls/irtp.m3u8
-
-#EXTINF:-1,MEGA
-https://raw.githubusercontent.com/RENATOPACHECOV/ESPN/main/Canalesdeportivos.m3u
-
-#EXTINF:-1,ESPN ARG
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18280
-
-#EXTINF:-1,FOX SPORTS ARG
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18301
-
-#EXTINF:-1,FOX SPORTS
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18302
-
-#EXTINF:-1,FOX SPORTS MX
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
-
-#EXTINF:-1,Fox Sports 2 MX
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28598
-
-#EXTINF:-1,Fox Sports 3 MX
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28599
-
-#EXTINF:-1,Movistar Formula 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/12701
-
-#EXTINF:-1,Movistar LaLiga
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
-
-#EXTINF:-1,Movistar LaLiga 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
-
-#EXTINF:-1,Movistar LaLiga 2
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
-
-#EXTINF:-1,Movistar LaLiga 3
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
-
-#EXTINF:-1,Movistar LaLiga 4
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
-
-#EXTINF:-1,Movistar Liga de Campeones
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28654
-
-#EXTINF:-1,Movistar Liga de Campeones 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28655
-
-#EXTINF:-1,Movistar Liga de Campeones 2
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28657
-
-#EXTINF:-1,Movistar Liga de Campeones 3
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28659
-
-#EXTINF:-1,Movistar Liga de Campeones 4
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28660
-
-#EXTINF:-1,DAZN 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28893
-
-#EXTINF:-1,DAZN 2
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/72648
-
-#EXTINF:-1,DISCOVERY THEATER
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18061
-
-#EXTINF:-1,DISCOVERY TLC
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18062
-
-#EXTINF:-1,DISCOVERY TURBO
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18063
-
-#EXTINF:-1,DISCOVERY WORLD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18064
-
-#EXTINF:-1,DISNEY CHANNEL
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18065
-
-#EXTINF:-1,DISCOVERY H&H
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18056
+#EXTM3U
 
 #EXTINF:-1,TNT
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18197
 
 #EXTINF:-1,TNT SERIES
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18359
+
+#EXTINF:-1,SONY
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18171
+
+#EXTINF:-1,WARNER
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18371
+
+#EXTINF:-1,FOX CHANNEL
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18287
 
 #EXTINF:-1,CINECANAL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18253
@@ -99,41 +26,125 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18254
 #EXTINF:-1,UNIVERSAL TV
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18176
 
-#EXTINF:-1,FOX CHANNEL
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18287
+#EXTINF:-1,STUDIO UNIVERSAL
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18348
 
 #EXTINF:-1,SPACE
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18172
 
-#EXTINF:-1,SONY
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18171
-
 #EXTINF:-1,FXM
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18303
-
-#EXTINF:-1,HISTORY
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18316
-
-#EXTINF:-1,MTV
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18328
-
-#EXTINF:-1,NAT GEO WILD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18335
 
 #EXTINF:-1,COMEDY CENTRAL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18050
 
-#EXTINF:-1,WARNER
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18371
+#EXTINF:-1,HISTORY
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18316
 
-#EXTINF:-1,STUDIO UNIVERSAL
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18348
+#EXTINF:-1,NAT GEO WILD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18335
+
+#EXTINF:-1,DISCOVERY TLC
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18062
+
+#EXTINF:-1,DISCOVERY THEATER
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18061
+
+#EXTINF:-1,DISCOVERY TURBO
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18063
+
+#EXTINF:-1,DISCOVERY WORLD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18064
+
+#EXTINF:-1,DISCOVERY H&H
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18056
+
+#EXTINF:-1,NAT GEO KIDS
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18334
 
 #EXTINF:-1,CARTOON NETWORK
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18251
 
+#EXTINF:-1,DISNEY XD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18067
+
+#EXTINF:-1,DISNEY CHANNEL
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18065
+
+#EXTINF:-1,DISNEY JR
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18066
+
+#EXTINF:-1,FOX SPORTS
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18301
+
+#EXTINF:-1,FOX SPORTS 2
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18299
+
+#EXTINF:-1,FOX SPORTS 3
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18300
+
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18302
+
+#EXTINF:-1,ESPN
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18280
+
 #EXTINF:-1,ESPN FUTBOL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18283
 
-#EXTINF:-1,MX| TUDN
+#EXTINF:-1,FOX SPORTS MX
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
+
+#EXTINF:-1,FOX SPORTS 2 MX
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28598
+
+#EXTINF:-1,FOX SPORTS 3 MX
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28599
+
+#EXTINF:-1,MOVISTAR LALIGA
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+
+#EXTINF:-1,MOVISTAR LALIGA 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
+
+#EXTINF:-1,MOVISTAR LALIGA 2
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
+
+#EXTINF:-1,MOVISTAR LALIGA 3
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
+
+#EXTINF:-1,MOVISTAR LALIGA 4
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
+
+#EXTINF:-1,MOVISTAR UCL
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28654
+
+#EXTINF:-1,MOVISTAR UCL 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28655
+
+#EXTINF:-1,MOVISTAR UCL 2
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28657
+
+#EXTINF:-1,MOVISTAR UCL 3
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28659
+
+#EXTINF:-1,MOVISTAR UCL 4
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28660
+
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/12701
+
+#EXTINF:-1,MOVISTAR MOTO GP
+http://viptv-pro.com:25461/elitiptv/4h1EGiYx/387
+
+#EXTINF:-1,DAZN 1
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28893
+
+#EXTINF:-1,DAZN 2
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/72648
+
+#EXTINF:-1,TUDN
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18182
+
+#EXTINF:-1,MTV
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18328
