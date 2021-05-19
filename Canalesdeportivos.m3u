@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 2 HD" tvg-logo="" group-title="Argentine",ARG| FOX SPORTS 2 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18299
+
 #EXTINF:-1,TNT HD
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18197
 
