@@ -1,21 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 2 HD" tvg-logo="" group-title="Argentine",ARG| FOX SPORTS 2 HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18299
+#EXTINF:-1,AXN
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/17992
 
-#EXTINF:-1,TNT HD
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18159
+
+#EXTINF:-1,TNT
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18197
 
 #EXTINF:-1,TNT SERIES
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18359
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18198
 
-#EXTINF:-1,SONY
+#EXTINF:-1,SONY CHANNEL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18171
 
 #EXTINF:-1,WARNER
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18371
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18224
 
-#EXTINF:-1,FOX CHANNEL SD MX
+#EXTINF:-1,FOX CHANNEL MX
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18089
 
 #EXTINF:-1,FOX CHANNEL ARG
@@ -33,17 +36,29 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18176
 #EXTINF:-1,FX
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18107
 
+#EXTINF:-1,FOX LIFE
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18092
+
 #EXTINF:-1,STUDIO UNIVERSAL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18348
 
 #EXTINF:-1,SPACE
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18172
 
+#EXTINF:-1,A&E
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/17982
+
 #EXTINF:-1,FXM
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18303
 
 #EXTINF:-1,COMEDY CENTRAL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18050
+
+#EXTINF:-1,AMC
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/17989
+
+#EXTINF:-1,GOLDEN EDGE
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18113
 
 #EXTINF:-1,HISTORY
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18316
@@ -54,6 +69,9 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18335
 #EXTINF:-1,INVESTIGATION DISCOVERY
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18128
 
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18054
+
 #EXTINF:-1,DISCOVERY TLC
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18062
 
@@ -63,11 +81,17 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18061
 #EXTINF:-1,DISCOVERY TURBO
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18063
 
+#EXTINF:-1,DISCOVERY SCIENCE
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18059
+
 #EXTINF:-1,DISCOVERY WORLD
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18064
 
 #EXTINF:-1,DISCOVERY H&H
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18056
+
+#EXTINF:-1,NAT GEO
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18150
 
 #EXTINF:-1,NAT GEO KIDS
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18334
@@ -77,6 +101,15 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18251
 
 #EXTINF:-1,DISNEY XD
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18067
+
+#EXTINF:-1,BOOMERANG
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18021
+
+#EXTINF:-1,NICKELODEON
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18156
+
+#EXTINF:-1,NICK JR
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18155
 
 #EXTINF:-1,DISNEY CHANNEL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18065
@@ -99,59 +132,50 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18302
 #EXTINF:-1,ESPN
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18280
 
+#EXTINF:-1,ESPN EXTRA
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18078
+
 #EXTINF:-1,ESPN FUTBOL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18283
 
 #EXTINF:-1,FOX SPORTS MX
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28597
 
 #EXTINF:-1,FOX SPORTS 2 MX
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28598
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28598
 
 #EXTINF:-1,FOX SPORTS 3 MX
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28599
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28599
 
 #EXTINF:-1,MOVISTAR LALIGA
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28329
 
 #EXTINF:-1,MOVISTAR LALIGA 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28330
 
 #EXTINF:-1,MOVISTAR LALIGA 2
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28331
 
 #EXTINF:-1,MOVISTAR LALIGA 3
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28332
 
 #EXTINF:-1,MOVISTAR LALIGA 4
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28333
 
-#EXTINF:-1,MOVISTAR UCL
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28654
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28654
 
-#EXTINF:-1,MOVISTAR UCL 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28655
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28655
 
-#EXTINF:-1,MOVISTAR UCL 2
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28657
-
-#EXTINF:-1,MOVISTAR UCL 3
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28659
-
-#EXTINF:-1,MOVISTAR UCL 4
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28660
-
-#EXTINF:-1,MOVISTAR FORMULA 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/12701
-
-#EXTINF:-1,MOVISTAR MOTO GP
-http://viptv-pro.com:25461/elitiptv/4h1EGiYx/387
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28657
 
 #EXTINF:-1,DAZN 1
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28893
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28893
 
 #EXTINF:-1,DAZN 2
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/72648
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/72648
 
 #EXTINF:-1,TUDN
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18182
@@ -159,5 +183,14 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18182
 #EXTINF:-1,MTV
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18328
 
+#EXTINF:-1,TRU TV
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18200
+
 #EXTINF:-1,FOX ACTION
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18088
+
+#EXTINF:-1,UFC
+http://xtra.xcs521.cz:80/00:1A:79:17:07:CC/ziajdjjfdifjd64646/39157
+
+#EXTINF:-1,WWE
+http://xtra.xcs521.cz:80/00:1A:79:17:07:CC/ziajdjjfdifjd64646/39092
