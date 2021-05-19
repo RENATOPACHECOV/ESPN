@@ -12,7 +12,10 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18171
 #EXTINF:-1,WARNER
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18371
 
-#EXTINF:-1,FOX CHANNEL
+#EXTINF:-1,FOX CHANNEL SD MX
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18089
+
+#EXTINF:-1,FOX CHANNEL ARG
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18287
 
 #EXTINF:-1,CINECANAL
@@ -23,6 +26,9 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18254
 
 #EXTINF:-1,UNIVERSAL TV
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18176
+
+#EXTINF:-1,FX
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18107
 
 #EXTINF:-1,STUDIO UNIVERSAL
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18348
@@ -41,6 +47,9 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18316
 
 #EXTINF:-1,NAT GEO WILD
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18335
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18128
 
 #EXTINF:-1,DISCOVERY TLC
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18062
@@ -146,3 +155,6 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18182
 
 #EXTINF:-1,MTV
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18328
+
+#EXTINF:-1,FOX ACTION
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/18088
