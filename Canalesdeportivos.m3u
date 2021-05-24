@@ -208,4 +208,7 @@ http://e10.telerium.uno:2052/free10/249/chunks.m3u8?nimblesessionid=10604844&wms
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqYlvYa72lwdTS_uLQi4sqQ)/dm/3/x774s7s/s/live-2.m3u8
 
 #EXTINF:-1,WILLAX
-http://e10.telerium.uno:2052/free10/003/chunks.m3u8?nimblesessionid=10605585&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDE6NTA6MDcgQU0maGFzaF92YWx1ZT1Jd1g4MlV1YnhsbVJoNnd0NW1PcTdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://e10.telerium.uno:2052/free10/003/chunks.m3u8?nimblesessionid=10647663&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDI6NTk6MjMgQU0maGFzaF92YWx1ZT1WQzVLOHhhTThTTEdJc0NWTElEd3VnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1,WILLAX 2
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmj_upb_VVQ9BygfgXoAvpfA)/dm/3/x7x4dgx/s/live-1.m3u8
