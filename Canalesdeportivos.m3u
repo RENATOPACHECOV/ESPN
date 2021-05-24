@@ -196,7 +196,7 @@ http://xtra.xcs521.cz:80/00:1A:79:17:07:CC/ziajdjjfdifjd64646/39157
 http://e10.telerium.uno:2052/free10/329/chunks.m3u8?nimblesessionid=10603779&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDE6NDY6MzMgQU0maGFzaF92YWx1ZT16R3J6Tm1EQUc5NGY0c3BSUTRGOTN3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1,ATV
-http://e10.telerium.uno:2052/free10/167/chunks.m3u8?nimblesessionid=10525555&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDExOjM0OjQ0IFBNJmhhc2hfdmFsdWU9ZGhDNHFDS3lBckxySU9NSld6NFVydz09JnZhbGlkbWludXRlcz0yNDA=
+http://e10.telerium.uno:2052/free10/167/chunks.m3u8?nimblesessionid=10606211&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDE6NTE6MjYgQU0maGFzaF92YWx1ZT1iVEJudWhKUnFNRm80Snd5THdVdDlBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1,CANAL 5
 http://e10.telerium.uno:2052/free10/915/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDE6MDE6MzUgQU0maGFzaF92YWx1ZT1ncXovNkRZTlUwaW9abG8xTHhZREFBPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -206,3 +206,6 @@ http://e10.telerium.uno:2052/free10/249/chunks.m3u8?nimblesessionid=10604844&wms
 
 #EXTINF:-1,PANAMERICANA
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqYlvYa72lwdTS_uLQi4sqQ)/dm/3/x774s7s/s/live-2.m3u8
+
+#EXTINF:-1,WILLAX
+http://e10.telerium.uno:2052/free10/003/chunks.m3u8?nimblesessionid=10605585&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDE6NTA6MDcgQU0maGFzaF92YWx1ZT1Jd1g4MlV1YnhsbVJoNnd0NW1PcTdnPT0mdmFsaWRtaW51dGVzPTI0MA==
