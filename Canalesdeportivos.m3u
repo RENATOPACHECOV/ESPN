@@ -212,3 +212,6 @@ http://e10.telerium.uno:2052/free10/003/chunks.m3u8?nimblesessionid=10647663&wms
 
 #EXTINF:-1,WILLAX 2
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmj_upb_VVQ9BygfgXoAvpfA)/dm/3/x7x4dgx/s/live-1.m3u8
+
+#EXTINF:-1,GOLPERU
+http://cdn89.sportsbay.site:2052/live-2/283/chunks.m3u8?nimblesessionid=110071899&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDc6MDM6NTYgUE0maGFzaF92YWx1ZT05aVhucGdBaXd4cGl2amlOcXVjZml3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
